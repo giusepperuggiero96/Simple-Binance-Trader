@@ -1,6 +1,6 @@
 # Public and Private key pais used for the for the trader.
-PUBLIC_KEY=
-PRIVATE_KEY=
+PUBLIC_KEY=L9RFUCd4nawpwyUq7DkF145MOc2rIPrrYTdhQqbZvpGOoBsY8ifubxqkS2ZesAMB
+PRIVATE_KEY=llqnHn0VyT5rrWaSSCRkq3nP0ZFSTps6qw0zmryS8vBCPJBfXIsMjkVAtJM9PFbV
 
 # Allow trader to be run in test mode (True/False).
 IS_TEST=True
@@ -15,7 +15,7 @@ TRADER_INTERVAL=15m
 TRADING_CURRENCY=0.0015
 
 # The markets that will be traded (currently only BTC markets) seperate markets with a , for multi market trading.
-TRADING_MARKETS=BTC-NEO,BTC-ETH
+TRADING_MARKETS=USDT-BTC,BTC-ETH
 
 # Configuration for the webapp (default if left blank is IP=127.0.0.1, Port=5000)
 HOST_IP=
